@@ -1,14 +1,7 @@
 Descriminative AI vs Generative AI
 
------------------------------------------------------------------------------------------------------
-| Feature     |            Discriminative AI                      | Generative AI                   |
-|-------------|-----------------------|---------------------------|------------------               | 
-| Main Goal   | It performs Classification and Prediction         | It generates the new content    |  
-|             |                                                   |                                 |
-|                           -----------------------------------------------------------------------------------------------------     |             |                                                                              
-| prompt_engg |     No roles involved                             | most important role             |
-|             |                                                   |                                 | 
------------------------------------------------------------------------------------------------------
+Descriminative AI
+
 
 
 
