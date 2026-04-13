@@ -13,6 +13,9 @@ AI reads Tokens not the words.<br>
 <h4>Tokenization process :</h4>
 word: Playing ->It will be broken in two tokens i)Play ii)ing  <br>
 word: Transformation -> i)Trans ii) form iii)ation  <br>
+
+<h4>Why it is important</h4>
+AI get the prefixes and suffixes through tokenization by which it can get the meaning of another words <br>
  
 
 
