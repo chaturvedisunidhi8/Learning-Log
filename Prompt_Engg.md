@@ -11,8 +11,8 @@ Tokenization is the process of breaking down the sentence of text into smaller u
 AI reads Tokens not the words.<br>
 
 <h4>Tokenization process :</h4>
-word: Playing ->It will be broken in two tokens i)Play ii)ing 
-word: Transformation -> i)Trans ii) form iii)ation 
-
+word: Playing ->It will be broken in two tokens i)Play ii)ing  <br>
+word: Transformation -> i)Trans ii) form iii)ation  <br>
+ 
 
 
