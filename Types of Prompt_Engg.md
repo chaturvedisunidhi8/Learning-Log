@@ -22,3 +22,5 @@ write a blog post about a cafe (AI don't know how long the blog you want ,who is
 <h5>Constraint(Negative constraints):</h5> Tell AI what not to do.
 <h5>Format:</h5> Define Output structure
 
+
+<h3>Another way of Structuring</h3>
