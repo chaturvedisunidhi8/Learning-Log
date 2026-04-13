@@ -26,6 +26,8 @@ write a blog post about a cafe (AI don't know how long the blog you want ,who is
 <h3>Another way of Structuring</h3>
 <h4></h4>TRICK -CREATE </h4>
 
+<h5>C for Character - Define Character or role of AI</h5>
+
 
 
 
