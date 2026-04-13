@@ -14,7 +14,7 @@ Here ,AI need to guess what exaclty you are expecting due to which sometimes out
 <h5>Example</h5>
 write a blog post about a cafe (AI don't know how long the blog you want ,who is your target audience etc.)
 
-<h3>1) Structured Prompting</h3> 
+<h3>2) Structured Prompting</h3> 
 
 <h5>Role:</h5> Define role of AI e.g Act as senior content marketer with 10 years of experience.
 <h5>Context:</h5> Define why this work aims e.g I am launching a coffee brand for health conscious Gen-Z.
