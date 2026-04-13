@@ -9,10 +9,10 @@
 <h4>Generative AI</h4>
 1) It generates the new content like images ,audios,videos etc
 2) Prompt Engg. plays a pivotal role here,
-3) example -Chatgpt(text generation),DAll-E(Image Generation) etc.
+3) example -Chatgpt(text generation),DAll-E(Image Generation) etc. <br><br>
 
 
-Evolution : RNN,LSTM and Transformer 
+<h4>Evolution : RNN,LSTM and Transformer </h4>
 
 Phase 1: RNN (Recurrent Neural Network)
 Their “memory link” was very weak.
