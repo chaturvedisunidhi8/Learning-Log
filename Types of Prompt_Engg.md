@@ -16,5 +16,5 @@ write a blog post about a cafe (AI don't know how long the blog you want ,who is
 
 <h3>1) Structured Prompting</h3> 
 
-<h5>Role:</h5>
+<h5>Role:</h5> Define role of AI e.g Act as senior content marketer with 10 years of experience.
 
