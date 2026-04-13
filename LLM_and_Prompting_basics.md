@@ -47,6 +47,9 @@ RNN → LSTM → Transformer
 <h4>Prompt Engineering</h4>
 <h5>How Transformers makes Prompt Engineering Possible</h5>
 
+<h5>1)long Context</h5> :Transformer can remember long prompt because it process words parallelly not sequentially.
+<h5>2)Contexual Understanding :</h5>
+
 
 
 
