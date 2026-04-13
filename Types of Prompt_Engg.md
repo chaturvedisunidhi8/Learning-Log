@@ -17,4 +17,8 @@ write a blog post about a cafe (AI don't know how long the blog you want ,who is
 <h3>1) Structured Prompting</h3> 
 
 <h5>Role:</h5> Define role of AI e.g Act as senior content marketer with 10 years of experience.
+<h5>Context:</h5> Define why this work aims e.g I am launching a coffee brand for health conscious Gen-Z.
+<h5>Task:</h5> Provide clear instruction.
+<h5>Constraint(Negative constraints):</h5> Tell AI what not to do.
+<h5>Format</h5>
 
