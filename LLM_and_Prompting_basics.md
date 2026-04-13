@@ -14,6 +14,12 @@
 
 Evolution : RNN,LSTM and Transformer 
 
+Phase 1: RNN (Recurrent Neural Network)
+Their “memory link” was very weak.
+If there is a long paragraph, RNN forgets what was written at the beginning by the time it reaches the end.
+This issue is called the “Vanishing Gradient Problem.
+
+
 
 
 
