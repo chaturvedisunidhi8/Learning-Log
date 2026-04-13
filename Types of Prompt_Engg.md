@@ -27,7 +27,7 @@ write a blog post about a cafe (AI don't know how long the blog you want ,who is
 <h4></h4>TRICK -CREATE </h4>
 
 <h5>C for Character - Define Character or role of AI</h5>
-<h5>R for Request   - Tell AI what you want it to do ,in general define action to perform</h5>
+<h5>R for Request  - Tell AI what you want it to do ,in general define action to perform</h5>
 
 
 
