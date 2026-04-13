@@ -1,4 +1,4 @@
-<h1>Types of Prompt Engineering</h1>
+<h1>Types of Prompt Engineering</h1> 
 
 <h3>1) Direct Prompting</h3>
 It is also known as Intruction prompting <br>
