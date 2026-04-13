@@ -12,6 +12,10 @@
 3) example -Chatgpt(text generation),DAll-E(Image Generation) etc.
 
 
+Evolution : RNN,LSTM and Transformer 
+
+
+
 
 
 
