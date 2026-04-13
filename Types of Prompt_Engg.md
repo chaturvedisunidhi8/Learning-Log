@@ -6,7 +6,7 @@ Here, we give directly give task to AI without extra context or detail.
 
 <h5>Characterstics :</h5>short,one-line and general.<br>
 
-<h5>Best For:</h5>:very simple task  e.g- What is AI?
+<h5>Best For:</h5> very simple task  e.g- What is AI?
 
 <h5>Problem:</h5>
 Here ,AI need to guess what exaclty you are expecting due to which sometimes output may imperfect.
