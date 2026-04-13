@@ -17,3 +17,4 @@ write a blog post about a cafe (AI don't know how long the blog you want ,who is
 <h3>1) Structured Prompting</h3> 
 
 <h5>Role:</h5>
+
