@@ -1,4 +1,4 @@
-<u><h1>Descriminative AI vs Generative AI</h1>
+<h1>Descriminative AI vs Generative AI</h1>
 
 <h4>Descriminative AI</h4>
 
@@ -28,6 +28,16 @@ An upgraded version of RNN.
 Problem:
 It works sequentially (one word after another), so training is very slow.
 And it still struggles to handle very long sentences properly.
+
+<h5>Phase 3: Transformers (The Game Changer – 2017)</h5>
+
+Concept:
+Google released the paper “Attention is All You Need.”
+Transformers introduced the Attention Mechanism.
+
+Magic:
+They process the entire sentence at once (in parallel), not word by word.
+This makes them much faster and better at understanding context.
 
 
 
