@@ -19,6 +19,16 @@ Their “memory link” was very weak.
 If there is a long paragraph, RNN forgets what was written at the beginning by the time it reaches the end.
 This issue is called the “Vanishing Gradient Problem.
 
+Phase 2: LSTM (Long Short-Term Memory)
+
+Concept:
+An upgraded version of RNN.
+“Gates” were added to help AI decide what information to remember and what to forget.
+
+Problem:
+It works sequentially (one word after another), so training is very slow.
+And it still struggles to handle very long sentences properly.
+
 
 
 
