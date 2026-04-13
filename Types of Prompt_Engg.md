@@ -14,4 +14,4 @@ Here ,AI need to guess what exaclty you are expecting due to which sometimes out
 <h5>Example</h5>
 write a blog post about a cafe (AI don't know how long the blog you want ,who is your target audience etc.)
 
-<h3>1) Structured Prompting</h3>
+<h3>1) Structured Prompting</h3> 
