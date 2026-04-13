@@ -1,4 +1,4 @@
-<h1>Descriminative AI vs Generative AI</h1>
+<u><h1>Descriminative AI vs Generative AI</u></h1>
 
 <h4>Descriminative AI</h4>
 
