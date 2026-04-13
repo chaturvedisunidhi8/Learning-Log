@@ -39,6 +39,11 @@ Magic:
 They process the entire sentence at once (in parallel), not word by word.
 This makes them much faster and better at understanding context.
 
+<h5>Summary:</h5>
+
+The evolution of Generative AI goes like this:
+RNN → LSTM → Transformer
+
 
 
 
