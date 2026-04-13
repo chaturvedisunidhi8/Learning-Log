@@ -23,6 +23,15 @@ AI get the prefixes and suffixes through tokenization by which it can get the me
 Whenever we write a prompt and the AI gives an answer, it writes everything on a blackboard.<br>
 When the blackboard gets full, to write something new, the AI has to erase the top (earlier) lines first.<br>
 
+<h4>Definition</h4>
+
+The maximum number of tokens an AI model can see or remember at one time is called the Context Window.
+
+<h4>Effect of the Limit</h4>
+
+If your model has a limit of 8,000 tokens and you provide a document of 10,000 tokens:
+The AI will forget the first 2,000 tokens.
+
  
 
 
