@@ -41,6 +41,16 @@ These help the AI focus only on specific parts
 Think of it like telling someone:<br>
 “Summarize this article, but focus only on money and future growth”
 
+<h1>Iterative Prompt Development(The Improvement cycle)</h1>
+It is a systematic approach for Prompt engineering<br>
+<b>Draft:</b>Write the prompt.
+<b>Test:</b>test the prompt on AI.
+<b>Analyze:</b>Analyze the output.
+<b>Refine</b>:Make changes in prompt for desired output.
+<b>Repeat</b>:Repeat the cycle until you get the required output.
+
+
+
 
 
 
