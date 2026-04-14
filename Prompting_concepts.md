@@ -6,4 +6,9 @@ Here AI use the knowledge of pre-trained data to predict the outcome of unseen d
 Practical use case:Sentimental Analysis
 
 <h3>Few-Shot Technique:The Pattern Maker</h3>
+Sometimes Zero-Shot prompting fails especially when you want your output in specific format that time we use  Few- shot prompting 
+In this promting technique, we provide 2-3 examples to AI so that it can understand the pattern.
+
+<h4>Practical Use Case(Formatting Data):</h4>Suppose you want feedback of customers in JSON format <br>
+<b>Example:</b>
 
