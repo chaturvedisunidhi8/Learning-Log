@@ -10,5 +10,9 @@ Sometimes Zero-Shot prompting fails especially when you want your output in spec
 In this promting technique, we provide 2-3 examples to AI so that it can understand the pattern.
 
 <h4>Practical Use Case(Formatting Data):</h4>Suppose you want feedback of customers in JSON format <br>
-<b>Example:</b>
+<h4>Example:</h4>
+Prompt:"The deleivery of Pizza was late."-> {"sentiment":"negative","label":0},"Pizza was good."-> {"sentiment":"positive","label":0}<br>
+Output:{"sentiment":neutral","label":0.5}
+
+
 
