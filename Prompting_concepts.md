@@ -15,7 +15,10 @@ Prompt:"The deleivery of Pizza was late."-> {"sentiment":"negative","label":0},"
 Output:{"sentiment":neutral","label":0.5}
 <h3>Chain of thoughts(CoT):"The logical Thinker "</h3>
 It is the most important technique to solve the complex problem.<br>
-here, when AI is intructed to solve problem step by step that time AI makes logic to solve the problem instead of directly jumping on the output.
+here, when AI is intructed to solve problem step by step that time AI makes logic to solve the problem instead of directly jumping on the output.<br>
+It helps in avoiding the hallucination.
+<b>Why it is important</b> :Complex Math, Coding logic or making strategy 
+Example of AI hallucination :If you ask provide me the picture or Seahorse again & again ,AI will confuse what picture to provide  
 
 
 
