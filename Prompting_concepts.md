@@ -20,7 +20,7 @@ It helps in avoiding the hallucination.
 <b>Why it is important</b> :Complex Math, Coding logic or making strategy 
 Example of AI hallucination :If you ask provide me the picture or Seahorse again & again ,AI will confuse what picture to provide  
 
-4)<h3>Instruction Prompting :The Framework</h3>
+<h3>4)Instruction Prompting :The Framework</h3>
 In this technique ,We Not just give the Tasks to AI but also set boundaries.<br>
 Here we provide 3 things:<br>
 1)Persona(Role): e.g -Act as senior Python developer<br>
