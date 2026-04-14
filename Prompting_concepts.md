@@ -13,7 +13,10 @@ In this promting technique, we provide 2-3 examples to AI so that it can underst
 <h4>Example:</h4>
 Prompt:"The deleivery of Pizza was late."-> {"sentiment":"negative","label":0},"Pizza was good."-> {"sentiment":"positive","label":0}<br>
 Output:{"sentiment":neutral","label":0.5}
-<h3>Chaon of thoughts(CoT):"The logical Thinker "</h3>
+<h3>Chain of thoughts(CoT):"The logical Thinker "</h3>
+It is the most important technique to solve the complex problem.<br>
+here, when AI is intructed to solve problem step by step that time AI makes logic to solve the problem instead of directly jumping on the output.
+
 
 
 
