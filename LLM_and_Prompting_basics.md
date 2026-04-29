@@ -52,6 +52,7 @@ RNN → LSTM → Transformer
 <h5>3) Few-short Learning :</h5> These models are trained on huge data so it can easily learn from new data.
 
 NOTE ---> Parameter that primarily controls the randomness of output in a Large Language Model (LLM) is Temperature
+key advantage of increasing the number of parameters in an LLM   --Improves ability to capture complex patterns
 
 
 
