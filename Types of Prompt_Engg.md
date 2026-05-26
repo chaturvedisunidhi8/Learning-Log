@@ -33,6 +33,12 @@ write a blog post about a cafe (AI don't know how long the blog you want ,who is
 <h5>T for Output    - Define the format in which you want to get your output</h5>
 <h5>E for Extra Guidance -provide some extra points to elaborate your input</h5>
 
+<h4>Or</h4>
+
+<h3> AIM technique </h3>
+A : <b>ACT    (tell AI how to act or what will be the role of it)</b>
+I :<b>INPUT    (provide your input )</b>
+M :<b>MISSION  (tell what's your mission)</b>
 
 
 
