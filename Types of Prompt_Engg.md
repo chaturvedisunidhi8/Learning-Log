@@ -36,8 +36,8 @@ write a blog post about a cafe (AI don't know how long the blog you want ,who is
 <h4>Or</h4>
 
 <h4> AIM Technique </h4>
-<h5>A : <b>ACT    (tell AI how to act or what will be the role of it)</h5><br>
-<h5>I :<b>INPUT    (provide your input )</h5> <br>
+<h5>A : <b>ACT    (tell AI how to act or what will be the role of it)</h5>
+<h5>I :<b>INPUT    (provide your input )</h5>
 <h5>M :<b>MISSION  (tell what's your mission)</h5>
 
 
