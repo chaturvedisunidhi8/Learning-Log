@@ -1,1 +1,2 @@
 <H1>CLIP MODEL</H1>  
+ 
