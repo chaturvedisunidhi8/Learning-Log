@@ -24,7 +24,7 @@ Strategy B: Too expensive → discard
 
 <h3>3)Directional Stimulus Prompting</h3>
  We don’t just give an instruction<br>
- We also give hints (keywords/directions) to guide the AI’s focus
+ We also give hints (keywords/directions) to guide the AI’s focus 
  So instead of:
 
 Do this task
