@@ -19,7 +19,7 @@ Then it evaluates them itself to decide which idea is best.
 If a path seems wrong → it is discarded
 If a path looks promising → it is explored further
 <br>
-Strategy A: Cheap and fast → continue<br>
+Strategy A: Cheap and fast → continue<br> 
 Strategy B: Too expensive → discard
 
 <h3>3)Directional Stimulus Prompting</h3>
