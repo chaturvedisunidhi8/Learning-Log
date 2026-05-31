@@ -31,7 +31,7 @@ Do this task
 
 We say:
 
-Do this task, but focus on THESE aspects<br>
+Do this task, but focus on THESE aspects<br> 
 
 <b>How it works:</b>
 We give a main instruction
