@@ -4,7 +4,7 @@
 
 1) It is used for classification and prediction 
 2) it does not involve the role of prompt enginerring
-3) Example - Spam detection ,sentiment analysis,Fraud detection etc.
+3) Example - Spam detection ,sentiment analysis,Fraud detection etc. 
 
 <h4>Generative AI</h4>
 1) It generates the new content like images ,audios,videos etc
