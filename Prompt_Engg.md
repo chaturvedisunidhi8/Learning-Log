@@ -10,7 +10,7 @@ In simply words prompt engineering is the art of asking the Right question in th
 Tokenization is the process of breaking down the sentence of text into smaller units calles tokens.<br>
 AI reads Tokens not the words.<br>
 
-<h4>Tokenization process :</h4>
+<h4>Tokenization process :</h4> 
 word: Playing ->It will be broken in two tokens i)Play ii)ing  <br>
 word: Transformation -> i)Trans ii) form iii)ation  <br>
 
