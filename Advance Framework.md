@@ -12,7 +12,7 @@ In Chain of Thought, AI thinks in a single line.
 In Tree of Thoughts, AI explores multiple paths (branches) like a tree.
 
 <b>How it works:</b>
-
+ 
 The AI generates 3–4 different ideas (thoughts) at the same time.
 Then it evaluates them itself to decide which idea is best.
 
