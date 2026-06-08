@@ -57,9 +57,16 @@ Note:Yolo can detect multiple objects
 | -------------------------------------- | ----------------- |
 | Real-time detection of many objects    | YOLO              |
 | Highest detection accuracy             | Faster R-CNN      |
-| Balanced speed and accuracy            | SSD               |
+| Balanced speed and accuracy            | SSD((Single Shot Detector)               |
 | Exact object outlines (not just boxes) | Mask R-CNN        |
 
+If Objects Overlap or Need Exact Shapes<br>
+
+Use instance segmentation models such as:<br>
+
+Mask R-CNN<br>
+
+Instead of just boxes, it produces a pixel-level mask for each object.<br>
 
 
 
