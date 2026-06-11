@@ -32,7 +32,7 @@ Intuition
 Classification answers: “What is this image?”<br>
 Detection answers: “What objects are in this image and where?”
 
-Example<br>
+<b>Example</b><br>
 
 Suppose an image contains a dog:<br>
 
