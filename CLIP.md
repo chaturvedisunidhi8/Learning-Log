@@ -14,7 +14,6 @@ CLip learns from image-text pairs:<br>
 2)It reads the accompanying text
 3)It learns to connect visual concepts with language<br>
 As a result ,CLIP can recognize objects without being trained on a fixed set of labels<br>
-
 Example<br>
 If you shpw CLIP a new image and ask:<br>
 is this a dog<br>
