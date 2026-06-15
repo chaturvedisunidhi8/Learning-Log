@@ -3,7 +3,7 @@
 In this prompting technique, The user simply provide an instruction without any example.<br>
 Here AI use the knowledge of pre-trained data to predict the outcome of unseen data.
 
-Practical use case:Sentimental Analysis
+Practical use case:Sentimental Analysisb
 
 <h3>2)Few-Shot Technique:The Pattern Maker</h3>
 Sometimes Zero-Shot prompting fails especially when you want your output in specific format that time we use  Few- shot prompting 
