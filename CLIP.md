@@ -21,7 +21,7 @@ is this a dog<br>
 is this a car<br>
 is this a husky<br>
 1)It can compare the image with those text description and choose the best match<br>
-2)Natural lamguage supervision allow the image encoder to create rich vectors that better encode the meaning of the image <br>
+2)Natural language supervision allow the image encoder to create rich vectors that better encode the meaning of the image <br>
 3)Clip learns via contrastive learning and clip's image encoder is usually a convolution or transformer architecture.
 
 
