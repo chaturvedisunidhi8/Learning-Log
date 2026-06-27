@@ -1,6 +1,6 @@
 <h1>Descriminative AI vs Generative AI</h1> 
  
-<h4>Descriminative AI</h4> 
+<h4>Descriminative AI</h4>   
 
 1) It is used for classification and prediction 
 2) it does not involve the role of prompt enginerring
