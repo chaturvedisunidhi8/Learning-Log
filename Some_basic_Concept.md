@@ -4,3 +4,4 @@
 3)Autopsy  :Write this before prompt for better solutions<br>
 4)10xthink :Write this at the end for deep thinking<br>
 5)Kill Critic:Write this before chatgpt won't agree on your every question<br>
+ 
