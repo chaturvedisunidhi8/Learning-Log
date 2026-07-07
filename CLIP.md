@@ -1,4 +1,4 @@
-<H1>CLIP MODEL</H1>  
+<H1>CLIP MODEL</H1>   
 CLIP Stands Contrastive Language Image Pretraining<br>
 CLIP is Virtual Language Model Powered by OpenAI<br>
 CLIP is neural network that jointly trains an image encoder and text encoder to map respective modalities to the same embedding space 
