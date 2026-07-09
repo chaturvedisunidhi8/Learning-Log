@@ -16,3 +16,10 @@ Nova<br>
 Phi and MAI<br>
 GLM <br>
 Kimi K2<br>
+
+GloVe(Global Vectors for Word Representation)<br>
+It is technique used in NLP to convert words into numerical vectors (embeddings) that capture their meanings.<br>
+Before models like BERT and GPT became popular, GloVe was one of the most widely used methods for representing words.<br>
+<br>
+OCR(Optical Character recognition)<br>
+It convert text inside Image,scanned Documents or PDF into editable and searchable texts
