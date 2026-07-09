@@ -16,6 +16,7 @@ Nova<br>
 Phi and MAI<br>
 GLM <br>
 Kimi K2<br>
+Codex<br>
 
 GloVe(Global Vectors for Word Representation)<br>
 It is technique used in NLP to convert words into numerical vectors (embeddings) that capture their meanings.<br>
