@@ -13,7 +13,7 @@ Opus<br>
 Haiku<br>
 Sonnet<br>
 Nova<br>
-Phi and MAI<br>
+Phi and MAI<br> 
 GLM <br>
 Kimi K2<br>
 Codex<br>
