@@ -23,4 +23,4 @@ It is technique used in NLP to convert words into numerical vectors (embeddings)
 Before models like BERT and GPT became popular, GloVe was one of the most widely used methods for representing words.<br>
 <br>
 OCR(Optical Character recognition)<br>
-It convert text inside Image,scanned Documents or PDF into editable and searchable texts
+It convert text inside Image,scanned Documents or PDF into editable and searchable texts 
