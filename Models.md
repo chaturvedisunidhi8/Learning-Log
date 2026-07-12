@@ -24,3 +24,5 @@ Before models like BERT and GPT became popular, GloVe was one of the most widely
 <br>
 OCR(Optical Character recognition)<br>
 It convert text inside Image,scanned Documents or PDF into editable and searchable texts 
+
+Model Context Protocol(MCP):
