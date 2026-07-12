@@ -25,4 +25,9 @@ Before models like BERT and GPT became popular, GloVe was one of the most widely
 OCR(Optical Character recognition)<br>
 It convert text inside Image,scanned Documents or PDF into editable and searchable texts 
 
-Model Context Protocol(MCP):
+Model Context Protocol(MCP):Open standard created by Anthropic that as a universal connector between claude code and external<br> tools,services and data sources .
+It basically connect AI models to various Data sources and tools and feed context to the LLM.<br>
+Act as USB e-port for AI applications.
+
+
+
