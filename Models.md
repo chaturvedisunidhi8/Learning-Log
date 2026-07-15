@@ -27,7 +27,7 @@ It convert text inside Image,scanned Documents or PDF into editable and searchab
 
 Model Context Protocol(MCP):Open standard created by Anthropic that as a universal connector between claude code and external<br> tools,services and data sources .
 It basically connect AI models to various Data sources and tools and feed context to the LLM.<br>
-Act as USB e-port for AI applications.
+Act as USB e-port for AI applications. 
 
 
 
