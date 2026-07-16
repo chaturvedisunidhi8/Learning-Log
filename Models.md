@@ -12,7 +12,7 @@ MiniMax<br>
 Opus<br>
 Haiku<br>
 Sonnet<br>
-Nova<br>
+Nova<br> 
 Phi and MAI<br> 
 GLM <br>
 Kimi K2<br>
