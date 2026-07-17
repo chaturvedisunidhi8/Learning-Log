@@ -10,7 +10,7 @@ Gemma<br>
 Qwen<br>
 MiniMax<br>
 Opus<br>
-Haiku<br>
+Haiku<br> 
 Sonnet<br>
 Nova<br> 
 Phi and MAI<br> 
