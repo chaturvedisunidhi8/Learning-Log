@@ -2,7 +2,7 @@
 Gemini <br>
 Groq<br>
 Llama<br>
-Mistral<br>
+Mistral<br> 
 GPT<br>
 MiniLM<br>
 Deepseek<br>
