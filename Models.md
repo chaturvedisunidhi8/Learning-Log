@@ -17,6 +17,7 @@
 16)GLM <br>
 17)Kimi K2<br>
 18)Codex<br>
+20)Fable and Mythos<br>
 19)laguna XS 
 
 GloVe(Global Vectors for Word Representation)<br>
