@@ -1,22 +1,23 @@
 <h3>LLM Model</h3>  
-Gemini <br>   
-Groq<br>
-Llama<br>
-Mistral<br> 
-GPT<br>
-MiniLM<br>
-Deepseek<br>
-Gemma<br>
-Qwen<br>
-MiniMax<br>
-Opus<br>
-Haiku<br> 
-Sonnet<br>
-Nova<br> 
-Phi and MAI<br> 
-GLM <br>
-Kimi K2<br>
-Codex<br>
+1)Gemini <br>   
+2)Groq<br>
+3)Llama<br>
+4)Mistral<br> 
+5)GPT<br>
+6)MiniLM<br>
+7)Deepseek<br>
+8)Gemma<br>
+9)Qwen<br>
+10)MiniMax<br>
+11)Opus<br>
+12)Haiku<br> 
+13)Sonnet<br>
+14)Nova<br> 
+15)Phi and MAI<br> 
+16)GLM <br>
+17)Kimi K2<br>
+18)Codex<br>
+19)laguna XS 
 
 GloVe(Global Vectors for Word Representation)<br>
 It is technique used in NLP to convert words into numerical vectors (embeddings) that capture their meanings.<br>
