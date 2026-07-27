@@ -1,7 +1,7 @@
 <h3>LLM Model</h3>  
 1)Gemini <br>   
 2)Groq<br>
-3)Llama<br>
+3)Llama,Codelama<br>
 4)Mistral<br> 
 5)GPT<br>
 6)MiniLM<br>
