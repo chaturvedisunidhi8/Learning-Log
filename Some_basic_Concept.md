@@ -1,4 +1,4 @@
-<h4>Code for Chatgpt</h4>
+<h4>Code for Chatgpt</h4> 
 1)Expose   :Write this before your prompt chatgpt will expose real intention of your question <br>
 2)IQ 200   :Write this at the end for expert or genius answers<br>
 3)Autopsy  :Write this before prompt for better solutions<br>
