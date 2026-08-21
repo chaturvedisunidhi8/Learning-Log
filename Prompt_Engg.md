@@ -30,7 +30,8 @@ The maximum number of tokens an AI model can see or remember at one time is call
 <h4>Effect of the Limit</h4>
 
 If your model has a limit of 8,000 tokens and you provide a document of 10,000 tokens:
-The AI will forget the first 2,000 tokens.
+The AI will forget the first 2,000 tokens.  
+
 
  
 
