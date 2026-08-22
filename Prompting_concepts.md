@@ -1,4 +1,4 @@
-<h1> Core Prompting Technique</h1>  
+<h1> Core Prompting Technique</h1>   
 <h3>1)Zero-Shot Technique :The Direct Order</h3>
 In this prompting technique, The user simply provide an instruction without any example.<br>
 Here AI use the knowledge of pre-trained data to predict the outcome of unseen data.
