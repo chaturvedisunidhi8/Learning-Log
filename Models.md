@@ -1,5 +1,5 @@
 <h3>LLM Model</h3>        
-1)Gemini<br> 
+1)Gemini<br>
 2)Groq<br>    
 3)Llama,Codelama<br> 
 4)Mistral<br> 
