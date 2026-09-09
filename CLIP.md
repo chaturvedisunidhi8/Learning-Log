@@ -12,7 +12,7 @@ How CLIP Uses This :<br>
 CLip learns from image-text pairs:<br>
 1)It looks at an image<br>
 2)It reads the accompanying text
-3)It learns to connect visual concepts with language<br>
+3)It learns to connect visual concepts with language<br>  
 As a result ,CLIP can recognize objects without being trained on a fixed set of labels<br>
 
 <b>Example</b><br>
