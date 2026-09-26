@@ -18,7 +18,7 @@
 17)Kimi K2<br>
 18)Codex<br>
 20)Fable and Mythos<br> 
-19)laguna XS 
+19)laguna XS  
 
 GloVe(Global Vectors for Word Representation)<br>
 It is technique used in NLP to convert words into numerical vectors (embeddings) that capture their meanings.<br>
