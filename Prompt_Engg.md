@@ -1,4 +1,4 @@
-<H1>What is Prompt Engineering ?</H1>       
+<H1>What is Prompt Engineering ?</H1>           
   
 Prompt engineering is a discipline or manner of designing the inputs for LLM which guides the model to generate accurate,reliable and useful output.<br> 
 AI systems can read the long sentences the way human do.<br>
@@ -18,7 +18,7 @@ word: Transformation -> i)Trans ii) form iii)ation  <br>
 AI get the prefixes and suffixes through tokenization by which it can get the meaning of another words. <br>
 
 <h2>Context Window - Memory Limit of AI</h2>
-<h4>Blackboard Analogy</h4>
+<h4>Blackboard Analogy</h4>    
 
 Whenever we write a prompt and the AI gives an answer, it writes everything on a blackboard.<br>
 When the blackboard gets full, to write something new, the AI has to erase the top (earlier) lines first.<br>
