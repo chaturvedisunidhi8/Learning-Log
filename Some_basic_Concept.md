@@ -6,4 +6,4 @@
 5)Kill Critic:Write this before chatgpt won't agree on your every question<br>
 6)/generatehandwrittenimage AI - for handwritten notes <br>
 7)/visulaizelearning name of the topic:for diagram and visuals<br>
-8)/sticky-notes topic name:for sticky notes<br>
+8)/sticky-notes topic name:for sticky notes<br> 
