@@ -16,3 +16,14 @@ They check the LLM's response before giving it to the user.<br>
 A Jailbreak in AI is an attempt to trick an AI model into ignoring its safety rules, restrictions, or instructions so that it<br>produces a response it would normally refuse.
 Basically,<br>
 A jailbreak is an attempt to bypass an AI's restrictions
+
+
+CDMs(Constraint Decoding Model)
+It is Introduced by ScaleDown ,  It has 3 specialist and each specialist has one specific task and these specialist generates output in a fixed format<br>
+1st Specialist: Classify based on labels e.g spam and not spam and also provide reason<br>
+2nd Specialist: Extract Information<br>
+3rd Specialist :Summarize content 
+
+
+
+
