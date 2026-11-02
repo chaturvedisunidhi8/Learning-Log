@@ -12,6 +12,7 @@ They check the LLM's response before giving it to the user.<br>
 
  
 <h3>Harness in AI</h3>
+An AI harness is the framework that connects an AI model's intelligence to the tools, resources, and processes it needs to perform real-world tasks effectively
 <h3>Jailbreak</h3>
 A Jailbreak in AI is an attempt to trick an AI model into ignoring its safety rules, restrictions, or instructions so that it<br>produces a response it would normally refuse.
 Basically,<br>
