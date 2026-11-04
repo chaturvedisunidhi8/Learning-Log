@@ -25,6 +25,21 @@ It is Introduced by ScaleDown ,  It has 3 specialist and each specialist has one
 2nd Specialist: Extract Information<br>
 3rd Specialist :Summarize content 
 
+<h3>LLM vs NCM</h3>
+
+Problem with LLm : LLM follows Autoregression Generation ,It is a process in which a Large Language Model (LLM)<br> generates text one token at a time, where each newly generated token depends on the previously generated tokens.
+
+The model must predict the next token, add it to the existing sequence, and then predict the following token.<br> This process continues until the complete response is generated.
+
+Major problems of autoregressive generation:
+1. Sequential processing: Tokens are generated one after another, making generation slow.<br>
+2. Latency: The model must repeatedly perform inference before producing the next token.<br>
+3. Error propagation: An incorrect earlier prediction can influence subsequent predictions.<br>
+4. Computational overhead: Generating long responses requires repeated model execution.<br>
+5. Limited parallelism: Future tokens cannot normally be generated independently because they depend on previous tokens.<br>
+
+<H4>How NCM Address this Problem</H4>
+A Next Context Model (NCM) is an AI model that aims to overcome the limitations of traditional autoregressive generation by predicting the next context in the form of discrete codes (compact representations of information) rather than generating individual tokens one by one. <br>These discrete codes represent larger units of information, potentially enabling faster and more efficient generation while preserving contextual relationships.
 
 
 
