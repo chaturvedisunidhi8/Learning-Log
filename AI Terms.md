@@ -41,7 +41,7 @@ Major problems of autoregressive generation:
 <H4>How NCM Address this Problem</H4>
 A Next Context Model (NCM) is an AI model that aims to overcome the limitations of traditional autoregressive generation by predicting the next context in the form of discrete codes (compact representations of information) rather than generating individual tokens one by one. <br>These discrete codes represent larger units of information, potentially enabling faster and more efficient generation while preserving contextual relationships.
 
-LLM: Predicts the next token (word or part of a word).<br>
-NCM: Predicts the next discrete code representing a larger unit of context.
+<b>LLM</b>: Predicts the next token (word or part of a word).<br>
+<b>NCM</b>: Predicts the next discrete code representing a larger unit of context.
 
 
