@@ -44,4 +44,7 @@ A Next Context Model (NCM) is an AI model that aims to overcome the limitations 
 <b>LLM</b>: Predicts the next token (word or part of a word).<br>
 <b>NCM</b>: Predicts the next discrete code representing a larger unit of context.
 
+<h4>Frontier Model</h4>
+<h4>Frugal AI</h4>
+
 
