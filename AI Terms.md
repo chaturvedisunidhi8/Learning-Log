@@ -46,5 +46,8 @@ A Next Context Model (NCM) is an AI model that aims to overcome the limitations 
 
 <h3>Frontier Model</h3>
 <h3>Frugal AI</h3>
+Frugal AI refers to the development and deployment of Artificial Intelligence systems that achieve effective results while using minimal computational resources, energy, memory, data, and financial cost.<br>
+The main goal is to make AI efficient, affordable, accessible, and environmentally sustainable without significantly compromising performance.
+
 
 
