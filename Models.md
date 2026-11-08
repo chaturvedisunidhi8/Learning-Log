@@ -1,11 +1,11 @@
-<h3>LLM Model</h3>          
+<h3>LLM Models</h3>          
 1)Gemini<br>    
 2)GroK<br>    
 3)Llama,Codelama<br>   
 4)Mistral<br> 
 5)GPT<br>  
 6)MiniLM<br>
-7)Deepseek<br>
+7)Deepseek ,jonus<br>
 8)Gemma<br>
 9)Qwen<br>
 10)MiniMax<br>
@@ -15,10 +15,11 @@
 14)Nova<br> 
 15)Phi and MAI<br> 
 16)GLM <br>
-17)Kimi K2<br>
-18)Codex<br>
+17)Kimi K2/K3<br>
 20)Fable and Mythos<br> 
-19)laguna XS  
+19)laguna XS 
+20)Nemotron (Nvidia)
+21)Granite (IBM)
 
 GloVe(Global Vectors for Word Representation)<br>
 It is technique used in NLP to convert words into numerical vectors (embeddings) that capture their meanings.<br>
