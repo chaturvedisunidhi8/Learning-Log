@@ -9,7 +9,7 @@ They check the user's input before it reaches the LLM.<br>
 They check the LLM's response before giving it to the user.<br>
 
 
-
+ 
  
 <h3>Harness in AI</h3> 
 An AI harness is the framework that connects an AI model's intelligence to the tools, resources, and processes it needs to perform real-world tasks effectively
