@@ -55,4 +55,8 @@ Trick AI into revealing its prompt instruction or Making AI reveal instruction t
 <h3>Prompt Injection</h3>
 Tricking AI into following malicious instruction instead of its intended instruction.
 
+<h3>Grounding</h3>
+It is the process of connecting LLM responses to reliable, relevant Information from external sources.<br>
+In simple words we can say that Connecting responses to real,verified sources.
+
 
