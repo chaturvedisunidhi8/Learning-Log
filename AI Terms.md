@@ -50,5 +50,9 @@ Frontier AI Models are the most advanced and capable AI models being developed a
 Frugal AI refers to the development and deployment of Artificial Intelligence systems that achieve effective results while using minimal computational resources, energy, memory, data, and financial cost.<br>
 The main goal is to make AI efficient, affordable, accessible, and environmentally sustainable without significantly compromising performance.
 
+<H4> Prompt Leaking</H4>
+Trick AI into revealing its prompt instruction or Making AI reveal instruction that were supposed to remains hidden.<br>
+<h4>Prompt Injection</h4>
+Tricking AI into following malicious instruction instead of its intended instruction.
 
 
