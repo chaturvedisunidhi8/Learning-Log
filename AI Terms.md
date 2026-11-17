@@ -6,7 +6,7 @@ Think of them as “boundaries for an AI model.”<br
 1. Input guardrails<br>
 They check the user's input before it reaches the LLM.<br>
 2. Output guardrails<br>
-They check the LLM's response before giving it to the user.<br>
+They check the LLM's response before giving it to the user.<br> 
 
 
  
