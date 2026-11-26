@@ -60,4 +60,7 @@ It is the process of connecting LLM responses to reliable, relevant Information 
 In simple words we can say that Connecting responses to real,verified sources.
 
 <h3>Dspy(Declarative Self Improving Python)</h3>
+It is an open-source Python framework developed by Stanford NLP researchers for building and optimizing applications powered by Large Language Models (LLMs).
+Instead of manually writing, modifying, and experimenting with prompts, DSPy allows you to program LLMs rather than prompt them manually.
+It can automatically optimize prompts and, in supported configurations, model weights to improve performance against a defined evaluation metric.
 
